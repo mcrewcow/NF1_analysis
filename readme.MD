@@ -1,5 +1,5 @@
 #Versions (technical for now)
-v1.0 - initial dataset, UMAP only <br \>
+v1.0 - initial dataset, UMAP only <br />
 v1.1 - ForceAtlas2 added, reclustered, CellChat, conditional differences <br />
 v2.0 - Removed Ctrl_1, Ctrl_3. Removed Oligo_2 population as it is brain contamination <br />
 
